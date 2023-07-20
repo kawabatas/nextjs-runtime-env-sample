@@ -1,0 +1,7 @@
+export NEXT_PUBLIC_FOO="foo"
+export BAR="bar"
+
+export NEXTAUTH_URL="http://localhost:3000"
+export NEXTAUTH_SECRET= # openssl rand -base64 32
+export GOOGLE_CLIENT_ID=
+export GOOGLE_CLIENT_SECRET=

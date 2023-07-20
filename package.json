@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "NODE_ENV=production next start"
+  },
+  "dependencies": {
+    "next": "^13.4.10",
+    "next-auth": "^4.22.1",
+    "next-runtime-env": "^1.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
